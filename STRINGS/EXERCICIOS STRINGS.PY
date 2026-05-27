@@ -80,7 +80,7 @@ print(resultado_python)
 # EX9
 # Atribua "software" a uma variável chamada st
 # e mostre a primeira letra da string.
-st = "software"  # <--- Faltava essa linha aqui! 😉
+st = "software"  
 print(st[0])
 
 # EX10
