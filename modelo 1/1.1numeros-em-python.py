@@ -37,7 +37,7 @@ print("-------------------------")
 #float é um númeo decimal
 numero_inteiro = 3.14
 
-print("Valor:", numero_decimal)
+print("Valor:", type numero_decimal)
 print("Tipo:", type(numero_decimal))
 
 print("-----------------------")
@@ -60,3 +60,13 @@ print("Valor":, numero_complexo)
 print ("Tipo", type (numero_complexo))
 
 print("--------------")
+
+
+
+
+
+
+
+
+
+
