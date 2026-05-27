@@ -97,7 +97,7 @@ texto = texto.replace("3", "2")
 print(texto)
 
 #---------------------
-# 70 MÉTODOS IMPORTANTES 
+# 7 MÉTODOS IMPORTANTES 
 #----------------------
 #Strings possuem vários métodos úteis.
 
@@ -118,3 +118,7 @@ frase ="copa de 2002"
 
 #divide a string em uma lista
 print(frase.split(" "))
+
+# -------------------------------------
+# 8) FORMATAÇÃO DE STRINGS 
+# -------------------------------------
